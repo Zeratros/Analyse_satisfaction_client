@@ -1,6 +1,6 @@
 # Analyse de la Satisfaction Client en Hôtellerie : Cas de Saint-Malo
 
-Ce projet vise à comprendre et à analyser la satisfaction des clients dans les hôtels de la ville de Saint-Malo, en se basant sur les commentaires des clients provenant de la plateforme Booking.com. 
+Ce projet vise à comprendre et à analyser la satisfaction des clients dans les hôtels 3-4 étoiles de la ville de Saint-Malo, en se basant sur les commentaires des clients provenant de la plateforme Booking.com. 
 
 ## Création de la Base de Données
 
